@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'StrikeoutLabel_Example' do
+  pod 'StrikeoutLabel', :path => '../'
+
+  target 'StrikeoutLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

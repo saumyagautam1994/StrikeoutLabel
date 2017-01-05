@@ -1,0 +1,6 @@
+framework module Pods_StrikeoutLabel_Example {
+  umbrella header "Pods-StrikeoutLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

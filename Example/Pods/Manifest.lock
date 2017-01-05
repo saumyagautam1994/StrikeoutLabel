@@ -1,0 +1,16 @@
+PODS:
+  - StrikeoutLabel (0.1.0)
+
+DEPENDENCIES:
+  - StrikeoutLabel (from `../`)
+
+EXTERNAL SOURCES:
+  StrikeoutLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StrikeoutLabel: a08eb476a38856af82f08f2802a7467c503c3a33
+
+PODFILE CHECKSUM: 075acbe8181e3d8d6f9e2947d214cac8f2b39c83
+
+COCOAPODS: 1.2.0.beta.3
